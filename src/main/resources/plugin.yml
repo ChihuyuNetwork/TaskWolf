@@ -1,5 +1,7 @@
 name: @name@
 main: @mainPackage@
 version: @version@
-depend:
+depends:
   - MCKotlin-Paper
+  - CommandAPI
+  - TimerAPI
